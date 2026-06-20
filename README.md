@@ -1,2 +1,14 @@
 # cn-livecn-pages
-HTML page archive and documentation
+
+自动发布文件目录
+
+这里用于集中归档一批静态 HTML 页面文件。
+
+## 存放说明
+
+- 页面内容写入独立 HTML 文件
+- 仓库说明保持在 README 中
+
+## 维护记录
+
+后续发布会继续追加页面，已有文件不会在 README 中逐一列出。
